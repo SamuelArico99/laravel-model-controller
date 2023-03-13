@@ -32,7 +32,7 @@
                             <div class="card-body">
                                 <h2 class="card-title">{{ $movie->title }}</h1>
                             </div>
-                        </div>
+                        </div> 
 
                     </div>
                     @endforeach
